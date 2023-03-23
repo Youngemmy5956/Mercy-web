@@ -1,0 +1,30 @@
+.first-section {
+    display: flex;
+    justify-content: space-between;
+  }
+.first-section >ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    align-items: center;
+}
+.first-section-link{
+  text-decoration: none;
+  color: black;
+}
+.first-section-link:hover {
+    text-decoration: underline;
+    color: white;
+   
+  }
+.btn{
+    margin-right: 10%;
+       
+}
+body{
+    background-color: black;
+}
+b{
+    color: white;
+}
+

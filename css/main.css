@@ -1,0 +1,17 @@
+.first-section >ul {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    align-items: center;
+}
+.first-section-link{
+  text-decoration: none;
+  color: black;
+}
+.first-section-link:hover {
+    text-decoration: underline;
+  }
+  .first-section {
+    display: flex;
+    justify-content: center;
+  }
