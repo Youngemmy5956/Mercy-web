@@ -27,4 +27,13 @@ body{
 b{
     color: white;
 }
-
+.second-section{
+    display: flex;
+    margin-top: 5%;
+    gap: 15rem;
+    margin-left: 7%;
+}
+.bttn{
+    padding-left: 60rem;
+   
+}
